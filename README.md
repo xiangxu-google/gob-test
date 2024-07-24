@@ -1,1 +1,2 @@
 # gob-test
+test
